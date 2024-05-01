@@ -1,0 +1,14 @@
+C:\Users\vigir\Downloads\battleship-sample\bin\Debug\net6.0\battleship-sample.exe
+C:\Users\vigir\Downloads\battleship-sample\bin\Debug\net6.0\battleship-sample.deps.json
+C:\Users\vigir\Downloads\battleship-sample\bin\Debug\net6.0\battleship-sample.runtimeconfig.json
+C:\Users\vigir\Downloads\battleship-sample\bin\Debug\net6.0\battleship-sample.dll
+C:\Users\vigir\Downloads\battleship-sample\bin\Debug\net6.0\battleship-sample.pdb
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.AssemblyInfoInputs.cache
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.AssemblyInfo.cs
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.csproj.CoreCompileInputs.cache
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.dll
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\refint\battleship-sample.dll
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.pdb
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\battleship-sample.genruntimeconfig.cache
+C:\Users\vigir\Downloads\battleship-sample\obj\Debug\net6.0\ref\battleship-sample.dll
